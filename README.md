@@ -1,4 +1,4 @@
--#hOTEL-FirstProject
+#Hotel-FirstProject
 
 
 -[Demo Project](https://ghazalehnezamghadiri.github.io/HOTEL/project2.html)
