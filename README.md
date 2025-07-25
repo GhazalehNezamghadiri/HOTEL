@@ -1,5 +1,7 @@
 # Hotel-FirstProject
 
+## My first web project — a hotel website built with pure HTML & CSS.
+
 
 -[Demo Project](https://ghazalehnezamghadiri.github.io/HOTEL/project2.html)
 
